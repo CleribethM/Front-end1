@@ -1,8 +1,18 @@
 
-header,a.letrasblancas{
+header div{
     background-color: black;
     color: white;
+    display: flex;
+    position: relative;
 }
+.contenedor1{
+justify-content: flex start;
+
+}
+.caja1{
+    justify-content: flex-end;
+}
+
 
 .fondonaranja{
     background-color: #F0A83E;
@@ -17,7 +27,7 @@ body{
     margin: 0 200px;
 }
 .imagendefondo{
-    height: 439px;
+    height: 379px;
 }
 .caja{
     position: relative;

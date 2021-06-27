@@ -1,0 +1,24 @@
+body{
+    margin: 0 200px;
+    background-color: #c4c4c4;
+}
+h1{
+    background-color: #005677;
+    color: #c4c4c4;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+footer {
+    background-color: #005677;
+    color: white;
+    height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}

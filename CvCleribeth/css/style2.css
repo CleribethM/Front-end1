@@ -1,0 +1,33 @@
+body{
+    margin: 0px 200px;
+}
+
+ul{
+    background-color: #c4c4c4;
+    color:#005677;
+    font-size: 20px;
+    font-weight:500;
+}
+.enlace{
+    text-decoration: none;
+    color: #005677;
+    text-align:justify ;
+}
+h1{
+    background-color: #c4c4c4;
+    color: #005677;
+    text-transform: uppercase;
+    text-align: center;
+}
+body{
+    background-color: #c4c4c4;
+}
+footer {
+    background-color: #005677;
+    color: white;
+    height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
